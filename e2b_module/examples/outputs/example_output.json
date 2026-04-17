@@ -1,0 +1,174 @@
+{
+  "ICSR": {
+    "c_1_identification_case_safety_report": {
+      "c_1_1_sender_safety_report_unique_id": "JP-DSJP-DSJ-2009-98765-1",
+      "c_1_8_1_worldwide_unique_case_identification_number": "JP-DSJP-DSJ-2009-98765-1",
+      "c_1_2_date_creation": "20120720100001+09",
+      "c_1_4_date_report_first_received_source": "20090622",
+      "c_1_5_date_most_recent_information": "20100412",
+      "c_1_3_type_report": "1",
+      "c_1_9_1_other_case_ids_previous_transmissions": {
+        "null_flavor": "NI",
+        "value": null
+      },
+      "c_1_6_1_additional_documents_available": "true",
+      "c_1_7_fulfil_local_criteria_expedited_report": "true",
+      "c_1_8_2_first_sender": "2"
+    },
+    "c_4_r_literature_reference": [
+      {
+        "c_4_r_1_literature_reference": "K. Kudo, et al. (2009) A Case of Heparin-Induced Thrombocytopenia and\nDisseminated Intravascular Coagulation during Treatment for Drug-Induced\nPneumonia. Journal of Japanese Respiratory Society, The 49th Annual Meeting of\nThe Japanese Respiratory Society, 47: p.316"
+      }
+    ],
+    "e_i_reaction_event": [
+      {
+        "e_i_4_date_start_reaction": "20081009",
+        "e_i_5_date_end_reaction": "20081201",
+        "e_i_6a_duration_reaction_num": "54",
+        "e_i_6b_duration_reaction_unit": "d",
+        "e_i_2_1a_meddra_version_reaction": "15",
+        "e_i_2_1b_reaction_meddra_code": "10022617",
+        "e_i_1_1a_reaction_primary_source_native_language": "間質性肺炎",
+        "e_i_1_1b_reaction_primary_source_language": "JA",
+        "e_i_9_identification_country_reaction": "JP",
+        "e_i_1_2_reaction_primary_source_translation": "INTERSTITIAL PNEUMONIA",
+        "e_i_3_1_term_highlighted_reporter": "3",
+        "e_i_3_2a_results_death": {
+          "null_flavor": "NI",
+          "value": null
+        },
+        "e_i_3_2b_life_threatening": "true",
+        "e_i_3_2c_caused_prolonged_hospitalisation": "true",
+        "e_i_3_2d_disabling_incapacitating": {
+          "null_flavor": "NI",
+          "value": null
+        },
+        "e_i_3_2e_congenital_anomaly_birth_defect": {
+          "null_flavor": "NI",
+          "value": null
+        },
+        "e_i_3_2f_other_medically_important_condition": {
+          "null_flavor": "NI",
+          "value": null
+        },
+        "e_i_7_outcome_reaction_last_observation": "1"
+      }
+    ],
+    "f_r_results_tests_procedures_investigation_patient": [
+      {
+        "f_r_1_test_date": "20081010",
+        "f_r_2_2b_test_name_meddra_code": "10006824",
+        "f_r_2_2a_meddra_version_test_name": "15",
+        "f_r_3_2_test_result_val_qual": "4.46",
+        "f_r_3_3_test_result_unit": "mg/dL",
+        "f_r_5_normal_high_value": "0.1",
+        "f_r_7_more_information_available": "false"
+      },
+      {
+        "f_r_1_test_date": "20081010",
+        "f_r_2_1_test_name": "DLST",
+        "f_r_3_4_result_unstructured_data": "MEVALOTIN(-), ALTAT(-), AMLODIN(-), BLOPRESS(-), LASIX (-)"
+      }
+    ],
+    "g_k_drug_information": [
+      {
+        "g_k_2_2_medicinal_product_name_primary_source": "MEVALOTIN",
+        "g_k_2_1_1a_mpid_version": "1.01",
+        "g_k_2_1_1b_mpid": "218901001",
+        "g_k_3_1_authorisation_application_number": "20300AMZ00671000",
+        "g_k_3_3_name_holder_applicant": "Daiichi Sankyo Company, Limited",
+        "g_k_3_2_country_authorisation_application": "JP",
+        "g_k_2_3_r_substance_id_strength": [
+          {
+            "g_k_2_3_r_1_substance_name": "PRAVASTATIN SODIUM",
+            "g_k_2_3_r_2a_substance_termid_version": "1.52",
+            "g_k_2_3_r_2b_substance_termid": "568874",
+            "g_k_2_3_r_3a_strength_num": "20",
+            "g_k_2_3_r_3b_strength_unit": "mg"
+          }
+        ],
+        "g_k_4_r_dosage_information": [
+          {
+            "g_k_4_r_1a_dose_num": "20",
+            "g_k_4_r_1b_dose_unit": "mg",
+            "g_k_4_r_4_date_time_drug": "200807",
+            "g_k_4_r_5_date_time_last_administration": "20081006",
+            "g_k_4_r_10_1_route_administration": "PER ORAL",
+            "g_k_4_r_9_1_pharmaceutical_dose_form": "TABLET"
+          }
+        ],
+        "g_k_8_action_taken_drug": "1",
+        "g_k_7_r_indication_use_case": [
+          {
+            "g_k_7_r_2a_meddra_version_indication": "15",
+            "g_k_7_r_2b_indication_meddra_code": "10062060",
+            "g_k_7_r_1_indication_primary_source": "HYPERLIPIDAEMIA"
+          }
+        ],
+        "g_k_1_characterisation_drug_role": "1"
+      }
+    ],
+    "d_patient_characteristics": {
+      "d_1_patient": "T.O.",
+      "d_5_sex": "2",
+      "d_2_1_date_birth": "19260412",
+      "d_2_2a_age_onset_reaction_num": "81",
+      "d_2_2b_age_onset_reaction_unit": "a",
+      "d_3_body_weight": "59",
+      "d_4_height": "153",
+      "d_6_last_menstrual_period_date": {
+        "null_flavor": "NASK",
+        "value": null
+      },
+      "d_7_1_r_structured_information_medical_history": [
+        {
+          "d_7_1_r_1a_meddra_version_medical_history": "15",
+          "d_7_1_r_1b_medical_history_meddra_code": "10020603",
+          "d_7_1_r_2_start_date": "200807",
+          "d_7_1_r_3_continuing": "true"
+        }
+      ]
+    },
+    "c_2_r_primary_source_information": [
+      {
+        "c_2_r_5_primary_source_regulatory_purposes": "1",
+        "c_2_r_2_3_reporter_street": "3-1-1 Maidashi, Higashi-ku",
+        "c_2_r_2_4_reporter_city": "Fukuoka",
+        "c_2_r_2_5_reporter_state_province": "Fukuoka",
+        "c_2_r_2_6_reporter_postcode": "812-8582",
+        "c_2_r_1_2_reporter_given_name": "Kyoko",
+        "c_2_r_1_4_reporter_family_name": "Kudo",
+        "c_2_r_4_qualification": "1",
+        "c_2_r_3_reporter_country_code": "JP",
+        "c_2_r_2_2_reporter_department": "Respiratory",
+        "c_2_r_2_1_reporter_organisation": "Kyushu University"
+      }
+    ],
+    "c_3_information_sender_case_safety_report": {
+      "c_3_1_sender_type": "1",
+      "c_3_4_1_sender_street_address": "3-5-1 Nihonbashi Honcho",
+      "c_3_4_2_sender_city": "Chuo-ku",
+      "c_3_4_3_sender_state_province": "Tokyo",
+      "c_3_4_4_sender_postcode": "103-8426",
+      "c_3_4_6_sender_telephone": "8199999999",
+      "c_3_4_7_sender_fax": "8188888888",
+      "c_3_4_8_sender_email": "xxxx@xxxx.co.jp",
+      "c_3_3_3_sender_given_name": "Hanako",
+      "c_3_3_5_sender_family_name": "Yamada",
+      "c_3_4_5_sender_country_code": "JP",
+      "c_3_3_1_sender_department": "Pharmacovigilance",
+      "c_3_2_sender_organisation": "Daiichi Sankyo Company, Limited"
+    },
+    "h_narrative_case_summary": {
+      "h_1_case_narrative": "An 81-year-old female patient received Mevalotin (pravastatin sodium) 20mg  for hyperlipidemia since July 2008. The patient experienced interstitial pneumonia on 08 October 2008 (inpatient hospitalization).",
+      "h_2_reporter_comments": "Although the results of DLSTs were all negative, drug-induced pneumonia was most considered from the onset of interstitial pneumonia, the condition of the shadows and the clinical course.",
+      "h_4_sender_comments": "This is a spontaneously received case reported by a literature that is categorized as serious due to inpatient hospitalization. Daiichi Sankyo's assessment of the causal relationship between interstitial pneumonia and Mevalotin is related.",
+      "h_5_r_case_summary_reporter_comments_native_language": [
+        {
+          "h_5_r_1a_case_summary_reporter_comments_text": "DLSTの結果は陰性であるが間質性肺炎の発症時期、陰影の性状、経過からも薬剤性肺炎が最も考えられる。原因薬剤は特定できていない。",
+          "h_5_r_1b_case_summary_reporter_comments_language": "JA"
+        }
+      ]
+    }
+  }
+}

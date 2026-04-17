@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ICSR>
+  <c_1_identification_case_safety_report>
+    <c_1_1_sender_safety_report_unique_id><value>CASE-2024-RU-001</value></c_1_1_sender_safety_report_unique_id>
+    <c_1_2_date_creation><value>20240115</value></c_1_2_date_creation>
+    <c_1_3_type_report><value>1</value></c_1_3_type_report>
+    <c_1_4_date_report_first_received_source><value>20240110</value></c_1_4_date_report_first_received_source>
+    <c_1_5_date_most_recent_information><value>20240114</value></c_1_5_date_most_recent_information>
+    <c_1_8_1_worldwide_unique_case_identification_number><value>WW-2024-RU-001</value></c_1_8_1_worldwide_unique_case_identification_number>
+    <c_1_8_2_first_sender><value>2</value></c_1_8_2_first_sender>
+    <c_1_9_1_r_source_case_id>
+      <c_1_9_1_r_1_source_case_id><value>Ministry of Health Russia</value></c_1_9_1_r_1_source_case_id>
+      <c_1_9_1_r_2_case_id><value>MOH-2024-001</value></c_1_9_1_r_2_case_id>
+    </c_1_9_1_r_source_case_id>
+    <c_1_9_1_r_source_case_id>
+      <c_1_9_1_r_1_source_case_id><value>Regional Hospital</value></c_1_9_1_r_1_source_case_id>
+      <c_1_9_1_r_2_case_id><value>RH-2024-555</value></c_1_9_1_r_2_case_id>
+    </c_1_9_1_r_source_case_id>
+  </c_1_identification_case_safety_report>
+
+  <c_2_r_primary_source_information>
+    <c_2_r_1_1_reporter_title><value>Dr.</value></c_2_r_1_1_reporter_title>
+    <c_2_r_1_2_reporter_given_name><value>Ivan</value></c_2_r_1_2_reporter_given_name>
+    <c_2_r_1_4_reporter_family_name><value>Petrov</value></c_2_r_1_4_reporter_family_name>
+    <c_2_r_2_1_reporter_organisation><value>City Clinical Hospital No.1</value></c_2_r_2_1_reporter_organisation>
+    <c_2_r_2_4_reporter_city><value>Moscow</value></c_2_r_2_4_reporter_city>
+    <c_2_r_3_reporter_country_code><value>RU</value></c_2_r_3_reporter_country_code>
+    <c_2_r_4_qualification><value>1</value></c_2_r_4_qualification>
+    <c_2_r_5_primary_source_regulatory_purposes><value>1</value></c_2_r_5_primary_source_regulatory_purposes>
+  </c_2_r_primary_source_information>
+  <c_2_r_primary_source_information>
+    <c_2_r_1_2_reporter_given_name><value>Anna</value></c_2_r_1_2_reporter_given_name>
+    <c_2_r_1_4_reporter_family_name><value>Sokolova</value></c_2_r_1_4_reporter_family_name>
+    <c_2_r_4_qualification><value>2</value></c_2_r_4_qualification>
+    <c_2_r_3_reporter_country_code><value>RU</value></c_2_r_3_reporter_country_code>
+  </c_2_r_primary_source_information>
+
+  <c_3_information_sender_case_safety_report>
+    <c_3_1_sender_type><value>1</value></c_3_1_sender_type>
+    <c_3_2_sender_organisation><value>Pharma Safety Dept</value></c_3_2_sender_organisation>
+    <c_3_3_3_sender_given_name><value>Maria</value></c_3_3_3_sender_given_name>
+    <c_3_3_5_sender_family_name><value>Ivanova</value></c_3_3_5_sender_family_name>
+    <c_3_4_2_sender_city><value>Moscow</value></c_3_4_2_sender_city>
+    <c_3_4_5_sender_country_code><value>RU</value></c_3_4_5_sender_country_code>
+    <c_3_4_8_sender_email><value>safety@pharma.ru</value></c_3_4_8_sender_email>
+  </c_3_information_sender_case_safety_report>
+
+  <d_patient_characteristics>
+    <d_1_patient><value>SZ</value></d_1_patient>
+    <d_2_1_date_birth><value>20010928</value></d_2_1_date_birth>
+    <d_2_2a_age_onset_reaction_num><value>22</value></d_2_2a_age_onset_reaction_num>
+    <d_2_2b_age_onset_reaction_unit><value>a</value></d_2_2b_age_onset_reaction_unit>
+    <d_2_3_patient_age_group><value>5</value></d_2_3_patient_age_group>
+    <d_3_body_weight><value>68.5</value></d_3_body_weight>
+    <d_4_height><value>172</value></d_4_height>
+    <d_5_sex><value>2</value></d_5_sex>
+    <d_7_2_text_medical_history><value>Hypertension (controlled); Type 2 diabetes mellitus; Anemia</value></d_7_2_text_medical_history>
+    <d_9_3_autopsy><null_flavor>NASK</null_flavor><value></value></d_9_3_autopsy>
+  </d_patient_characteristics>
+
+  <e_i_reaction_event>
+    <e_i_1_1a_reaction_primary_source_native_language><value>Пациент сообщил о головокружении и слабости после приёма препарата. Отмечалось учащённое сердцебиение и затруднение дыхания.</value></e_i_1_1a_reaction_primary_source_native_language>
+    <e_i_1_1b_reaction_primary_source_language><value>RUS</value></e_i_1_1b_reaction_primary_source_language>
+    <e_i_1_2_reaction_primary_source_translation><value>Patient reported dizziness and weakness after taking the medication. Rapid heartbeat and difficulty breathing were observed.</value></e_i_1_2_reaction_primary_source_translation>
+    <e_i_3_1_term_highlighted_reporter><value>3</value></e_i_3_1_term_highlighted_reporter>
+    <e_i_3_2b_life_threatening><value>True</value></e_i_3_2b_life_threatening>
+    <e_i_3_2c_caused_prolonged_hospitalisation><value>True</value></e_i_3_2c_caused_prolonged_hospitalisation>
+    <e_i_4_date_start_reaction><value>20240101</value></e_i_4_date_start_reaction>
+    <e_i_5_date_end_reaction><value>20240103</value></e_i_5_date_end_reaction>
+    <e_i_6a_duration_reaction_num><value>2</value></e_i_6a_duration_reaction_num>
+    <e_i_6b_duration_reaction_unit><value>d</value></e_i_6b_duration_reaction_unit>
+    <e_i_7_outcome_reaction_last_observation><value>1</value></e_i_7_outcome_reaction_last_observation>
+    <e_i_8_medical_confirmation_healthcare_professional><value>True</value></e_i_8_medical_confirmation_healthcare_professional>
+    <e_i_9_identification_country_reaction><value>RU</value></e_i_9_identification_country_reaction>
+  </e_i_reaction_event>
+
+  <f_r_results_tests_procedures_investigation_patient>
+    <f_r_1_test_date><value>20240102</value></f_r_1_test_date>
+    <f_r_2_1_test_name><value>Blood glucose</value></f_r_2_1_test_name>
+    <f_r_3_4_result_unstructured_data><value>550 mg/dL (critically elevated)</value></f_r_3_4_result_unstructured_data>
+    <f_r_4_normal_low_value><value>70</value></f_r_4_normal_low_value>
+    <f_r_5_normal_high_value><value>100</value></f_r_5_normal_high_value>
+    <f_r_7_more_information_available><value>True</value></f_r_7_more_information_available>
+  </f_r_results_tests_procedures_investigation_patient>
+  <f_r_results_tests_procedures_investigation_patient>
+    <f_r_1_test_date><value>20240102</value></f_r_1_test_date>
+    <f_r_2_1_test_name><value>ECG</value></f_r_2_1_test_name>
+    <f_r_3_4_result_unstructured_data><value>ST-segment elevation in V1-V4</value></f_r_3_4_result_unstructured_data>
+    <f_r_7_more_information_available><value>False</value></f_r_7_more_information_available>
+  </f_r_results_tests_procedures_investigation_patient>
+
+  <g_k_drug_information>
+    <g_k_1_characterisation_drug_role><value>1</value></g_k_1_characterisation_drug_role>
+    <g_k_2_2_medicinal_product_name_primary_source><value>Metformin 500mg</value></g_k_2_2_medicinal_product_name_primary_source>
+    <g_k_8_action_taken_drug><value>1</value></g_k_8_action_taken_drug>
+    <g_k_4_r_dosage_information>
+      <g_k_4_r_4_date_time_drug><value>20231201</value></g_k_4_r_4_date_time_drug>
+      <g_k_4_r_5_date_time_last_administration><value>20240101</value></g_k_4_r_5_date_time_last_administration>
+      <g_k_4_r_7_batch_lot_number><value>LOT-2023-ABC</value></g_k_4_r_7_batch_lot_number>
+      <g_k_4_r_8_dosage_text><value>500 mg twice daily with meals</value></g_k_4_r_8_dosage_text>
+      <g_k_4_r_10_1_route_administration><value>Oral</value></g_k_4_r_10_1_route_administration>
+    </g_k_4_r_dosage_information>
+    <g_k_7_r_indication_use_case>
+      <g_k_7_r_1_indication_primary_source><value>Type 2 diabetes mellitus</value></g_k_7_r_1_indication_primary_source>
+    </g_k_7_r_indication_use_case>
+  </g_k_drug_information>
+  <g_k_drug_information>
+    <g_k_1_characterisation_drug_role><value>2</value></g_k_1_characterisation_drug_role>
+    <g_k_2_2_medicinal_product_name_primary_source><value>Lisinopril 10mg</value></g_k_2_2_medicinal_product_name_primary_source>
+    <g_k_8_action_taken_drug><value>4</value></g_k_8_action_taken_drug>
+    <g_k_4_r_dosage_information>
+      <g_k_4_r_8_dosage_text><value>10 mg once daily</value></g_k_4_r_8_dosage_text>
+      <g_k_4_r_10_1_route_administration><value>Oral</value></g_k_4_r_10_1_route_administration>
+    </g_k_4_r_dosage_information>
+    <g_k_7_r_indication_use_case>
+      <g_k_7_r_1_indication_primary_source><value>Hypertension</value></g_k_7_r_1_indication_primary_source>
+    </g_k_7_r_indication_use_case>
+  </g_k_drug_information>
+
+  <h_narrative_case_summary>
+    <h_1_case_narrative><value>A 22-year-old female patient with a history of hypertension and type 2 diabetes presented with sudden onset dizziness, weakness, and palpitations approximately 30 minutes after taking Metformin 500mg. She also reported difficulty breathing. Blood glucose was critically elevated at 550 mg/dL. ECG showed ST-segment elevation in V1-V4. The patient was admitted to the ICU. Metformin was withdrawn immediately. Symptoms resolved after 2 days of treatment. The patient was discharged in stable condition on day 5.</value></h_1_case_narrative>
+    <h_2_reporter_comments><value>Possible hypersensitivity reaction to Metformin. Causality assessment: probable.</value></h_2_reporter_comments>
+    <h_4_sender_comments><value>Report reviewed and confirmed by pharmacovigilance department. Follow-up requested.</value></h_4_sender_comments>
+  </h_narrative_case_summary>
+</ICSR>
